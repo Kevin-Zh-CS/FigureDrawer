@@ -46,3 +46,4 @@ plt.tight_layout()
 
 # Show plot
 plt.show()
+plt.savefig('./figs/dot_chart_demo.png', dpi=300)

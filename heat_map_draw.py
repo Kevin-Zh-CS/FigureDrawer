@@ -24,3 +24,4 @@ plt.xticks(fontsize=15)
 plt.yticks(fontsize=15)
 # Display the heatmap
 plt.show()
+plt.savefig('./figs/heat_map_demo.png', dpi=300)

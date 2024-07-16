@@ -14,3 +14,4 @@ ax1.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.1f%%',
 ax1.axis('equal')
 plt.tight_layout()
 plt.show()
+plt.savefig('./figs/pie_chart_demo.png', dpi=300)
