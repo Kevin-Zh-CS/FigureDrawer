@@ -50,3 +50,5 @@ ax.spines['bottom'].set_visible(True)
 ax.spines['left'].set_visible(True)
 ax.yaxis.grid(True, linestyle='--', which='major', color='grey', alpha=0.7)
 plt.show()
+
+plt.savefig('./figs/bar_chart_demo.png', dpi=300)
