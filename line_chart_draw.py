@@ -31,3 +31,5 @@ plt.legend(loc='upper left', fontsize=10, frameon=True, shadow=True)
 plt.rcParams.update({'font.size':10})
 # Show plot
 plt.show()
+
+plt.savefig('./figs/line_chart_demo.png', dpi=300)
