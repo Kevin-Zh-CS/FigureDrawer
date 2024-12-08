@@ -12,7 +12,7 @@ pip install -r requirements.txt
 python3 line_chart_draw.py
 ```
 
-<img src="./figs/line_chat_demo.png" width="600">
+<img src="./figs/line_chart_demo.png" width="600">
 
 
 ### 2. Bar Chart
@@ -21,7 +21,7 @@ python3 line_chart_draw.py
 python3 bar_chart_draw.py
 ```
 
-<img src="./figs/bar_chat_demo.png" width="600">
+<img src="./figs/bar_chart_demo.png" width="600">
 
 ### 3. Heat Map
 
@@ -37,7 +37,7 @@ python3 heat_map_draw.py
 python3 pie_chart_draw.py
 ```
 
-<img src="./figs/pie_chat_demo.png" width="600">
+<img src="./figs/pie_chart_demo.png" width="600">
 
 ### 5. Dot Chart
 
@@ -45,4 +45,4 @@ python3 pie_chart_draw.py
 python3 dot_chart_draw.py
 ```
 
-<img src="./figs/dot_chat_demo.png" width="600">
+<img src="./figs/dot_chart_demo.png" width="600">
